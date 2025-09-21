@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me "I am Keerthana, a 3rd-year AIML student at Jain (Deemed-to-be) University, specializing in Machine Learning, Java, and Data Structures, with hands-on experience in developing AI-driven projects and participating in hackathons."</h2>
+<h2 align="left">About me "</h2>
 
 ###
 
@@ -14,8 +14,8 @@
 
 ###
 
-<h2 align="left">I code with - **Languages**: Java ☕ | Python 🐍  
-- **Domains**: Machine Learning 🤖 | Deep Learning | DSA in Java  
+<h2 align="left">I code with - **Languages**: Java ☕ | Python 🐍  <br> 
+- **Domains**: Machine Learning 🤖 | Deep Learning | DSA in Java   <br>
 - **Frameworks & Tools**: TensorFlow | NumPy | Pandas | Matplotlib  </h2>
 
 ###

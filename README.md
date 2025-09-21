@@ -14,9 +14,10 @@
 
 ###
 
-<h2 align="left">I code with - **Languages**: Java ☕ | Python 🐍  <br> 
-- **Domains**: Machine Learning 🤖 | Deep Learning | DSA in Java   <br>
-- **Frameworks & Tools**: TensorFlow | NumPy | Pandas | Matplotlib  </h2>
+<h2 align="left">I code with
+  - **Languages**: Java ☕ | Python 🐍  <br> 
+  - **Domains**: Machine Learning 🤖 | Deep Learning | DSA in Java   <br>
+  - **Frameworks & Tools**: TensorFlow | NumPy | Pandas | Matplotlib  </h2>
 
 ###
 

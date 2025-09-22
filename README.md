@@ -56,3 +56,10 @@ I’m **G. Keerthana**, an AIML undergraduate at **Jain (Deemed-to-be University
 
 </h2>
 ###
+<h2 align="left"> ### GitHub Activity
+- Contributed to: kabillanta/myportfolio, kabillanta/WorstML, kabillanta/MedGPT, and 30+ other repositories
+- Code reviews: ✅
+- Issues: 3%
+- Pull requests: 📌
+</h2>
+
